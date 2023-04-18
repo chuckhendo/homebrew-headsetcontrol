@@ -4,7 +4,7 @@ class Headsetcontrol < Formula
   url "https://github.com/Sapd/HeadsetControl/archive/2.2.tar.gz"
   sha256 "8614ae756430b9e70768b03d24091013811f4ea3bd23ce74bf3883620c2de46a"
 
-  head "https://github.com/Sapd/HeadsetControl.git"
+  head "https://github.com/chuckhendo/HeadsetControl.git"
 
   depends_on "cmake" => :build
   depends_on "hidapi"
